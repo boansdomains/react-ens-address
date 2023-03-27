@@ -1,6 +1,6 @@
 {
-  "name": "@ensdomains/react-ens-address",
-  "version": "0.0.29",
+  "name": "boansdomains-react-ens-address",
+  "version": "0.0.33",
   "description": "React ENS address component",
   "main": "dist/index.js",
   "files": [
@@ -50,8 +50,8 @@
   "dependencies": {
     "@emotion/core": "^10.0.14",
     "@emotion/styled": "^10.0.14",
-    "@ensdomains/ui": "^3.2.3",
-    "ethers": "^4.0.32",
+    "boansdomains-ui": "3.4.7",
+    "boa-ethers": "^5.7.2",
     "lodash": "^4.17.13"
   },
   "repository": {

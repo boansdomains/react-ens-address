@@ -1,5 +1,5 @@
-import { validateName } from '@ensdomains/ui'
-import { utils } from 'ethers'
+import { validateName } from 'boansdomains-ui'
+import { utils } from 'boa-ethers'
 
 export const ETH_ADDRESS_TYPE = {
   name: 'name',
